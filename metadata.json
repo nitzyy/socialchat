@@ -1,0 +1,6 @@
+{
+  "name": "SocialChat",
+  "description": "An emotionally immersive, cutesy mobile-style application that matches people by real-time emotions. Connect in Balanced or Unbalanced modes, share Spotify statuses, doodle on shared canvases, reflect with emotional diaries, and unlock stories of your conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

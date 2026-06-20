@@ -1,0 +1,9 @@
+{
+  "appId": "com.gnitya2507.socialchat",
+  "appName": "SocialChat",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-pre-krud5kedhrqw22yhehgog7-896038444859.asia-east1.run.app",
+    "cleartext": true
+  }
+}
